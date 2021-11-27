@@ -127,6 +127,10 @@ white : #FFFFFF;*/
 }
 
 /* Our team */
+.main-team{
+background-color:var(--second-background-color);
+}
+
 .team-title {
   font-weight: 500;
   font-size: 16px;
@@ -219,3 +223,4 @@ letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
 }
+
