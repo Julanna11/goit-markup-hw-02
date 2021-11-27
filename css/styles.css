@@ -86,7 +86,7 @@ white : #FFFFFF;*/
   color: var(--accent-text-color);
 }
 
-.contacts-mail.current {
+.contacts .contacts-mail.current {
   color: var(--accent-text-color);
 }
 
