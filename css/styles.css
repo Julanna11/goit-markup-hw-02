@@ -86,6 +86,10 @@ white : #FFFFFF;*/
   color: var(--accent-text-color);
 }
 
+.contacts-mail.current {
+  color: var(--accent-text-color);
+}
+
 /* Main first section */
 .decision {
   font-weight: 900;
